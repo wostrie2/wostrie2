@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @wostrie2
+- 👋 Hi, I’m Bill Ostrie II
 - 👀 I’m interested in math, complexity science, music, and health and fitness.
-- 🌱 I’m currently learning iOS app building, coding in Swift, algorithms and data structures (in python), differential geometry, and working through Think Complexity by Allen Downey.
+- 🌱 I’m currently working through the fastai course, "Practical Deep Learning for Coders", learning iOS app building and coding in Swift, and working through a Galois Theory textbook by David Cox.
 
 
 <!---
